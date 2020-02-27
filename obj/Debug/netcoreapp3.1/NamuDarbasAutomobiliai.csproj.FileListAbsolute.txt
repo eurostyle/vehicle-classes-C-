@@ -1,0 +1,11 @@
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.exe
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.deps.json
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.runtimeconfig.json
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.runtimeconfig.dev.json
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.dll
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\bin\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.pdb
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\obj\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.csprojAssemblyReference.cache
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\obj\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.AssemblyInfoInputs.cache
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\obj\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.AssemblyInfo.cs
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\obj\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.dll
+C:\Users\ilgas\source\repos\NamuDarbasAutomobiliai\obj\Debug\netcoreapp3.1\NamuDarbasAutomobiliai.pdb
